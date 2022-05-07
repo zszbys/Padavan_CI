@@ -10,6 +10,7 @@ on:
         - PSG1208
         - PSG1218
         - 5K-W20
+        - GHL
         - OYE-001
         - NEWIFI-MINI
         - MI-MINI
